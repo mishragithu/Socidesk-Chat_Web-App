@@ -1,4 +1,6 @@
 https://github.com/mishragithu/Socidesk-Chat_Web-App/assets/118820226/08597259-9ac4-43f1-ae3c-86cfa5e2184a
+##
+![Screenshot 2024-04-03 014404](https://github.com/mishragithu/Socidesk-Chat_Web-App/assets/118820226/9dda49eb-14ac-4512-9904-7b892fa0d95a)
 
 Snappy is chat application build with the power of MERN Stack.
 
