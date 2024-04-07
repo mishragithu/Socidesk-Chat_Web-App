@@ -2,7 +2,7 @@ https://github.com/mishragithu/Socidesk-Chat_Web-App/assets/118820226/08597259-9
 ##
 ![Screenshot 2024-04-03 014404](https://github.com/mishragithu/Socidesk-Chat_Web-App/assets/118820226/9dda49eb-14ac-4512-9904-7b892fa0d95a)
 
-Snappy is chat application build with the power of MERN Stack.
+Socidesk is chat application build with the power of MERN Stack.
 
 
 
